@@ -1,0 +1,7 @@
+C:\Users\Sai Yaswanth\OneDrive\Desktop\simplilearn\Day-5 Assignment-5\DecisionMaking\DecisionMaking\bin\Debug\DecisionMaking.exe.config
+C:\Users\Sai Yaswanth\OneDrive\Desktop\simplilearn\Day-5 Assignment-5\DecisionMaking\DecisionMaking\bin\Debug\DecisionMaking.exe
+C:\Users\Sai Yaswanth\OneDrive\Desktop\simplilearn\Day-5 Assignment-5\DecisionMaking\DecisionMaking\bin\Debug\DecisionMaking.pdb
+C:\Users\Sai Yaswanth\OneDrive\Desktop\simplilearn\Day-5 Assignment-5\DecisionMaking\DecisionMaking\obj\Debug\DecisionMaking.csproj.AssemblyReference.cache
+C:\Users\Sai Yaswanth\OneDrive\Desktop\simplilearn\Day-5 Assignment-5\DecisionMaking\DecisionMaking\obj\Debug\DecisionMaking.csproj.CoreCompileInputs.cache
+C:\Users\Sai Yaswanth\OneDrive\Desktop\simplilearn\Day-5 Assignment-5\DecisionMaking\DecisionMaking\obj\Debug\DecisionMaking.exe
+C:\Users\Sai Yaswanth\OneDrive\Desktop\simplilearn\Day-5 Assignment-5\DecisionMaking\DecisionMaking\obj\Debug\DecisionMaking.pdb
